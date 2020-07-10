@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="test">
+        <item>지형이</item>
+        <item>귀요미</item>
+        <item>존잘</item>
+        <item>부자</item>
+        <item>천재</item>
+
+
+
+
+    </string-array>
+
+
+
+
+</resources>
